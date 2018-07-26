@@ -28,3 +28,6 @@ while True:
 
 	pygame.display.update()
 	fps.tick(60)
+	
+# Gist url for drawing hangman
+# https://gist.github.com/allysonja/422237b9bdc61b916a7b8a58c507da3d
